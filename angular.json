@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "esri-sandbox-ten"
+    }
+  },
+  "defaultProject": "esri-sandbox-ten",
+  "cli": {
+    "analytics": false
+  }
 }
